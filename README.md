@@ -13,3 +13,8 @@
 9. **Even or Odd Numbers in a Range**: A program that prints all even numbers in a given range.
 10. **Age Category**: A program that classifies a person into age categories (Child, Teenager, Adult, Senior) based on their age.
 11. **Factorial Calculation**: A program that calculates and prints the factorial of a given number.
+
+## Prerequisites
+
+- Python 3.x or higher installed on your system.
+- No external libraries or dependencies are required for these solutions.
